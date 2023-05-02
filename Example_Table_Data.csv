@@ -1,0 +1,6 @@
+﻿web-scraper-order,AddressNumber,StreetName,City,State,ZIP_Code,BedroomsFormatted,BathroomsFormatted,Sqft,Date_Sold,Price_Sold,Zestimate
+1680469672-4,2336, North 84th St, Wauwatosa,WI,53226,3,2,1894,2/28/2023,329900,336700
+1680469677-5,2525, North 90th St, Wauwatosa,WI,53226,4,3,2825,2/28/2023,650000,662600
+1680469682-6,2519, North 70th St, Wauwatosa,WI,53213,4,1,1424,2/28/2023,245000,245000
+1680469687-7,1623, Alta Vista Ave, Wauwatosa,WI,53213,3,3,2780,3/1/2023,647000,644900
+1680469692-8,10015, West Glendale Ave, Wauwatosa,WI,53225,3,1,1550,3/1/2023,300000,305600
