@@ -70,7 +70,7 @@ SELECT
 			ELSE 'Much too big'
 			END AS Size_Fit
 FROM master.dbo.Wauwatosa_Recent_Home_Sales
-WHERE BathroomsFormatted >= 3 AND Price_Sold BETWEEN 40000 AND 500000;
+WHERE BathroomsFormatted >= 3 AND Price_Sold BETWEEN 400000 AND 500000;
 
 --Make CTE--
 
@@ -90,7 +90,7 @@ SELECT
 			ELSE 'Much too big'
 			END AS Size_Fit
 FROM master.dbo.Wauwatosa_Recent_Home_Sales
-WHERE BathroomsFormatted >= 3 AND Price_Sold BETWEEN 40000 AND 500000
+WHERE BathroomsFormatted >= 3 AND Price_Sold BETWEEN 400000 AND 500000
 )
 
 SELECT Size_Fit, COUNT(Size_Fit) AS SimilarHomeSold
